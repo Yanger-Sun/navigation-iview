@@ -2,7 +2,7 @@
 
 > 一级导航+二级导航（ivew+jquery）
 
-## 依赖
+## 主要依赖
 
 >  iview   jquery   vue
 
@@ -31,9 +31,8 @@
     一级导航路径   navigation-header.vue 
     二级导航路径   navigation-secondory.vue
 
-
-** 导航写法参考  src/component/navigation/navigation.js **
-** 导航组件引用参考  src/component/navigation/app-navigation.vue **
+     导航写法参考  src/component/navigation/navigation.js
+     导航组件引用参考  src/component/navigation/app-navigation.vue 
 
 ## Build Setup
 
